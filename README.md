@@ -14,7 +14,7 @@
 - I thrive on the philosophy of continuous learning, innovation, and delivering results
 
 ## 💻 Tech Stack
-<p align="left">
+<p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://camo.githubusercontent.com/575e3ef35ce943330e82d0358bc30a90e128bddaa54aa00478426895119c171a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" />
            </a>
