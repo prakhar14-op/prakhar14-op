@@ -37,4 +37,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar14-op&layout=compact&theme=dark)](https://github.com/prakhar14-op/github-readme-stats)
 </div>
 
+<div align="center">
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=prakhar14-op&theme=dark)](https://git.io/streak-stats)
+
+</div>
+## 📊 GitHub Stats & Activity
+<div align="center">
+  
+  [![Prakhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakhar14-op&bg_color=0D1117&color=ffffff&line=007ACC&point=ffffff&area=true&hide_border=true)](https://github.com/prakhar14-op/github-readme-activity-graph)
+
+</div>
