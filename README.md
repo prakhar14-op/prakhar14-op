@@ -28,3 +28,13 @@
     <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/756908c732ccb76f9464608c46da63c779cf8a7b11a4b42414570778218d6e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="pandas" /> </a>
     <a href="https://www.numpy.org" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f9bf510182c359c318ad3bc455b4e8e4f5a28654a08e5fbf344491d4da808270/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d3543334545382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6376266c6f676f436f6c6f723d7768697465" alt="pandas" /> </a>
 </p>
+
+
+## 📊 GitHub Stats
+<div align="center">
+  
+[![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakhar14-op&show_icons=true&theme=dark)](https://github.com/prakhar14-op/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar14-op&layout=compact&theme=dark)](https://github.com/prakhar14-op/github-readme-stats)
+</div>
+
+
