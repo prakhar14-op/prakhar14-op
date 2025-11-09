@@ -49,6 +49,46 @@
 
 </div>
 <div align="center">
+
+
+## 🏆 Hacktoberfest 2025 Achievement
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
+
+<div align="center">
+  
+  ### ✨ **Hacktoberfest 2025 Journey** ✨
+  <sub>From first PR to Super Contributor - a journey through open source and collaboration</sub>
+  
+</div>
+
+<div align="center" style="margin: 30px 0;">
+
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhnm1oek0076il04rw3hmi3w" target="_blank">
+    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="240" style="border-radius:15px; margin: 20px;"/>
+  </a>
+
+  ### 🌟 **Super Contributor (Level 5)** 🌟
+  
+  <p>
+    <img src="https://img.shields.io/badge/Rank-Top%205%2C668-FFD700?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Rank Badge"/>
+    <img src="https://img.shields.io/badge/Goal-10%2C000%20Contributors-FF7B00?style=for-the-badge&logo=target&logoColor=white" alt="Goal Badge"/>
+  </p>
+  
+  <p align="center">
+    Among the <strong>5,668 contributors (as of 30/10/2025)</strong> racing towards the <strong>10,000 contributors milestone</strong>!<br/>
+    <em>Recognition for consistent and quality open-source contributions throughout Hacktoberfest 2025.</em>
+  </p>
+  
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
+
+<div align="center">
   
   ### 🎖️ **Badge Collection**
   
