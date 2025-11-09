@@ -67,7 +67,7 @@
 <div align="center" style="margin: 30px 0;">
 
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhnm1oek0076il04rw3hmi3w" target="_blank">
-    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="240" style="border-radius:15px; margin: 20px;"/>
+    <img src="badges/lvl5-astronaut.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="240" style="border-radius:15px; margin: 20px;"/>
   </a>
 
   ### 🌟 **Super Contributor (Level 5)** 🌟
@@ -106,7 +106,7 @@
       <img src="badges/lvl4-astronaut.webp" alt="Level 4" width="90"/>
     </a>
     <a href="https://www.holopin.io/userbadge/cmhnm2oml0078il049lbtjssp" target="_blank">
-      <img src="badges/treenation.webp" alt="TreeNation" width="90"/>
+      <img src="badges/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=.webp" alt="TreeNation" width="90"/>
     </a>
   </p>
   
