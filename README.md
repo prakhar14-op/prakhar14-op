@@ -48,3 +48,28 @@
   [![Prakhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prakhar14-op&bg_color=0D1117&color=ffffff&line=007ACC&point=ffffff&area=true&hide_border=true)](https://github.com/prakhar14-op/github-readme-activity-graph)
 
 </div>
+<div align="center">
+  
+  ### 🎖️ **Badge Collection**
+  
+  <p align="center">
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhlwemsh004wjl04v4mrap6h" target="_blank">
+      <img src="badges/lvl1-astronaut.webp" alt="Level 1" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhm2rxcd003il904o7zmraau" target="_blank">
+      <img src="badges/lvl2-astronaut.webp" alt="Level 2" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhm9a469003vl204cdk86odx" target="_blank">
+      <img src="badges/lvl3-astronaut.webp" alt="Level 3" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhnjxzfg002hii0451l8p5l5" target="_blank">
+      <img src="badges/lvl4-astronaut.webp" alt="Level 4" width="90"/>
+    </a>
+    <a href="https://www.holopin.io/userbadge/cmhnm2oml0078il049lbtjssp" target="_blank">
+      <img src="badges/treenation.webp" alt="TreeNation" width="90"/>
+    </a>
+  </p>
+  
+  <sub>Each badge represents a milestone in continuous learning, teamwork, and giving back to the developer community</sub>
+  
+</div>
