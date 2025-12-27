@@ -5,13 +5,13 @@
 </p>
 
 ## 💫 About Me
-- I am a second-year Mathematics and Computer Science undergraduate based in New Delhi, India, with a strong passion for web development development .
+- I am a second-year Mathematics and Computer Science undergraduate based in New Delhi, India, with a strong passion for web development.
 
-- I began coding in sem 2 of my college and have since developed a keen interest in building scalable and impactful solutions. I enjoy working on both quick prototypes and long-term projects that require deeper problem-solving and technical expertise.
+- I began coding in sem 2 of my college and have since developed a keen interest in building scalable and impactful solutions. I enjoy working on both quick prototypes and long-term projects that requires deeper problem-solving and technical expertise.
 
-- My current focus lies in exploring machine learning and artificial intelligence, while I also hold strong skills in the Front- end , having built and deployed web applications  I am continuously expanding my skill set, experimenting with new tools and frameworks, and refining my development practices.
+- My current focus lies in exploring machine learning and artificial intelligence, while I also hold strong skills in the Front-end, having built and deployed web applications  I am continuously expanding my skill set, experimenting with new tools and frameworks, and refining my development practices.
 
-- I thrive on the philosophy of continuous learning, innovation, and delivering results
+- I thrive on the philosophy of continuous learning, innovation, and delivering results.
 
 ## 💻 Tech Stack
 <p align="center">
