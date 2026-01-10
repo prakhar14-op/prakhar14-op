@@ -246,7 +246,7 @@ const prakhar = {
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=prakhar14-op&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=prakhar14-op&theme=dark)](https://git.io/streak-stats)
 
 </div>
 ## 📊 GitHub Stats & Activity
